@@ -1,4 +1,4 @@
-FROM modymesourceze/ZESOURCE:slim-buster
+FROM mustaphanopz/sors1:slim-buster
 
 #clonning repo 
 RUN git clone https://github.com/mustaphanop/sors1 /root/ZESOURCE 
