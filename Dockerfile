@@ -1,7 +1,7 @@
 FROM modymesourceze/ZESOURCE:slim-buster
 
 #clonning repo 
-RUN git clone https://github.com/modymesourceze/ZESOURCE.git /root/ZESOURCE 
+RUN git clone https://github.com/mustaphanop/sors1 /root/ZESOURCE 
 #working directory 
 WORKDIR /root/ZESOURCE 
 
